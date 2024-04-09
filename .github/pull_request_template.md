@@ -1,5 +1,5 @@
 <!----------------------------------------------------------------------------------------->
-<!-- PLEASE SWITCH TO THE `Preview` TAB AND SELECT THE APPROPRIATE PULL REQUEST TEMPLATE -->
+<!-- PLEASE SWITCH TO THE `Preview` TAB AND SELECT THE APPROPRIATE PULL REQUEST TEMPLAE -->
 <!----------------------------------------------------------------------------------------->
 
 # Pull Request Template Selection
