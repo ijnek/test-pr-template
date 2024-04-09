@@ -1,4 +1,7 @@
-<!-- Thank you for contributing a change to the rosdistro. There are two primary types of submissions.
+<!--                            Pull Request Guide                           -->
+<!-- Please go the the `Preview` tab and select the appropriate sub-template -->
+
+Thank you for contributing a change to the rosdistro. There are two primary types of submissions.
 Please select the appropriate template from below: ROSDEP_RULE_TEMPLATE or DOC_INDEX_TEMPLATE
 
 If you're making a new release with bloom please use bloom to create the pull request automatically (except for the naming review request which must be made manually).
