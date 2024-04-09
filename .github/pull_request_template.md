@@ -1,7 +1,6 @@
 <!-- Please go the the `Preview` tab and select the appropriate sub-template -->
 
-Thank you for contributing a change to the rosdistro. There are two primary types of submissions.
-Please select the appropriate template from below:
+Thank you for contributing a change to the rosdistro. There are two primary types of submissions. Please select the appropriate template from below:
 
 * [Rosdep Rule Template](?expand=1&template=rosdep_rule_template.md)
 * [Doc Index Template](?expand=1&template=doc_index_template.md)
